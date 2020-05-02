@@ -9,3 +9,9 @@ JavaScript Newsletter shares the latest industry news :newspaper:, articles :pag
 **You can easily subscribe to the newsletter, just by starring :star2: this repository.**
 
 :construction: Just make sure your email address is added to the [Emails](https://github.com/settings/emails) and is **not private**.
+
+## How to add your article
+
+We maintain the issues in the [issues](./issues) directory, following the naming convention - `[issueNumber].[year].json`, where _issueNumber_ is the current **week number**.
+
+You can raise a [pull request](https://github.com/the-newsletters/javascript/pulls) adding your article to the issue _.json_ file.
