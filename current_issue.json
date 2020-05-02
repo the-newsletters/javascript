@@ -3,6 +3,6 @@
   "label": "Issue",
   "message": "18",
   "color": "yellow",
-  "style": "for-the-badge",
+  "style": "flat",
   "namedLogo": "javascript"
 }
