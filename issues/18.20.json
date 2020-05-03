@@ -15,34 +15,40 @@
   ],
   "jobs": [
     {
-      "title": "",
-      "description": "",
-      "organization": "",
-      "link": ""
+      "title": "Staff Software Engineer (Backend), Cloud",
+      "description": "Join us in our mission to make website development fun by making it simple",
+      "organization": "Gatsby",
+      "link": "https://www.gatsbyjs.com/careers/staff-software-engineer--backend---cloud-4032137003"
+    },
+    {
+      "title": "Developer Relations Lead",
+      "description": "Vercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace.",
+      "organization": "Vercel",
+      "link": "https://vercel.com/careers"
     }
   ],
   "news": [
     {
-      "title": "",
-      "description": "",
-      "organization": "",
-      "link": ""
+      "title": "Node v12.16.3",
+      "description": "Node v12.16.3 is released",
+      "organization": "Node.js",
+      "link": "https://nodejs.org/en/blog/release/v12.16.3/"
     }
   ],
   "tools": [
     {
-      "title": "",
-      "description": "",
-      "organization": "",
-      "link": ""
+      "title": "gen-esm-wrapper",
+      "description": "Generate ESM wrapper files for CommonJS modules",
+      "author": "addaleax",
+      "link": "https://www.npmjs.com/package/gen-esm-wrapper"
     }
   ],
   "tutorials": [
     {
-      "title": "",
-      "description": "",
-      "organization": "",
-      "link": ""
+      "title": "JavaScript why 'this'",
+      "description": "JavaScript why 'this'",
+      "author": "Omar Lopez",
+      "link": "https://dev.to/omenlog/javascript-why-this-1lf0"
     }
   ]
 }
