@@ -1,11 +1,16 @@
 {
   "events": [
     {
-      "title": "",
-      "description": "",
-      "organization": "",
-      "link": "",
-      "date": ""
+      "title": "JavaScript Remote Conf 2020",
+      "description": "Speakers lined up already include Raymond Camden, Christian Heilmann, and Aleksandra Sikora.",
+      "link": "https://devchat.tv/conferences/javascript-remote-2020/",
+      "date": "MAY 13TH - 15TH"
+    },
+    {
+      "title": "OpenJS World",
+      "description": "OpenJS Foundation’s annual event brings together the JavaScript and web ecosystem including Node.js, Electron, AMP and more. In 2020, we’re going virtual to learn and engage with leaders deploying innovative applications at massive scale.",
+      "link": "https://events.linuxfoundation.org/openjs-world/",
+      "date": "June 23 – 24"
     }
   ],
   "jobs": [
