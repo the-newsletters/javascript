@@ -12,6 +12,6 @@ JavaScript Newsletter shares the latest industry news :newspaper:, articles :pag
 
 ## How to add your article
 
-We maintain the issues in the [issues](./issues) directory, following the naming convention - `[issueNumber].[year].json`, where _issueNumber_ is the current **week number**.
+We maintain the issues in the [issues](./issues) directory, following the naming convention - `[issueNumber].[year].json`, where _issueNumber_ is the current **week number + 1** ![Current Issue](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-newsletters%2Fjavascript%2Fmaster%2Fcurrent_issue.json).
 
 You can raise a [pull request](https://github.com/the-newsletters/javascript/pulls) adding your article to the issue _.json_ file.
