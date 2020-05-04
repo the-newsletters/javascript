@@ -8,7 +8,7 @@ JavaScript Newsletter shares the latest industry news :newspaper:, articles :pag
 
 **You can easily subscribe to the newsletter, just by starring :star2: this repository.**
 
-:construction: Just make sure your email address is added to the [Emails](https://github.com/settings/emails) and is **not private**.
+:construction: Just make sure your email address is added to the [Emails](https://github.com/settings/emails) and is **not private**. [How to do this](https://github.com/the-newsletters/javascript/wiki/How-to-make-your-email-public.)
 
 ## How to add your article
 
