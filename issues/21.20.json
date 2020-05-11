@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "title": "",
+      "description": "",
+      "link": "",
+      "date": ""
+    }
+  ],
+  "jobs": [
+    {
+      "title": "",
+      "description": "",
+      "organization": "",
+      "link": ""
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "description": "",
+      "organization": "",
+      "link": ""
+    }
+  ],
+  "tools": [
+    {
+      "title": "",
+      "description": "",
+      "author": "",
+      "link": ""
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "",
+      "description": "",
+      "author": "",
+      "link": ""
+    }
+  ]
+}
